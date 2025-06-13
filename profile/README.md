@@ -119,5 +119,4 @@
 
 ## 🏆 수상 내역
 ![Awards](https://github.com/user-attachments/assets/5c5ea0da-7303-4ad2-af39-809337c2ee89)
-*(세종대학교 창의설계경진대회 최우수상)*
 
