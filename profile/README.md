@@ -124,12 +124,12 @@
 
 ## ✅ 저작권 등록
 
-![Copyright](https://github.com/user-attachments/assets/ecd8aa34-d5a3-4ee3-a2c6-a2127f539481)
+![Copyright](https://github.com/user-attachments/assets/9a03c667-e90a-4cdd-89c8-a41543d2ecb3)
 
 | 항목 | 내용 |
 |------|------|
-| **가. 접수번호** | 2025-026354 |
-| **나. 등록번호** | 제C-2025-023246호 |
-| **다. 제ㅤㅤ호** | [https://www.swbank.kr](https://www.swbank.kr) |
-| **라. 등록일자** | 2025.06.23 |
-| **마. 신청종류** | 컴퓨터프로그램저작물 저작권 등록 |
+| **접수번호** | 2025-026354 |
+| **등록번호** | 제C-2025-023246호 |
+| **제ㅤㅤ호** | [https://www.swbank.kr](https://www.swbank.kr) |
+| **등록일자** | 2025.06.23 |
+| **신청종류** | 컴퓨터프로그램저작물 저작권 등록 |
