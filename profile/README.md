@@ -124,7 +124,7 @@
 
 ## ✅ 저작권 등록
 
-![Copyright](https://github.com/user-attachments/assets/9a03c667-e90a-4cdd-89c8-a41543d2ecb3)
+<img width="550" alt="Copyright" src="https://github.com/user-attachments/assets/23c1c6b0-6e59-47e0-963b-cdfc0399f6db" />
 
 | 항목 | 내용 |
 |------|------|
