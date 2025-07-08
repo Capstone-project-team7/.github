@@ -118,9 +118,9 @@
 <br>
 
 ## 🏆 수상 내역
-![Awards](https://github.com/user-attachments/assets/5c5ea0da-7303-4ad2-af39-809337c2ee89)
+<img width="550" alt="Prize" src="https://github.com/user-attachments/assets/5c5ea0da-7303-4ad2-af39-809337c2ee89" />
+<img width="550" alt="Prize" src="https://github.com/user-attachments/assets/13705d36-c913-464a-b089-b88a89f02caf" />
 
-<br>
 
 ## ✅ 저작권 등록
 
