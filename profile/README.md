@@ -119,7 +119,7 @@
 
 ## 🏆 수상 내역
 <img width="550" alt="Prize" src="https://github.com/user-attachments/assets/5c5ea0da-7303-4ad2-af39-809337c2ee89" />
-<img width="550" alt="Prize" src="https://github.com/user-attachments/assets/13705d36-c913-464a-b089-b88a89f02caf" />
+<img width="550" alt="Prize2" src="https://github.com/user-attachments/assets/4ff0d29f-38d6-4fb0-9ebe-6cf312d5e4d1" />
 
 
 ## ✅ 저작권 등록
