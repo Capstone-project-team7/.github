@@ -121,13 +121,13 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/282c971d-dcbb-4497-b8f8-d24fc0073d0e" width="45%" />
-  <img src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" width="42%" alt="Award Photo" />
+  <img src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" width="45%" />
 </p>
 
-
-<img width="550" alt="Prize" src="https://github.com/user-attachments/assets/5c5ea0da-7303-4ad2-af39-809337c2ee89" />
-<img width="550" alt="Prize2" src="https://github.com/user-attachments/assets/4ff0d29f-38d6-4fb0-9ebe-6cf312d5e4d1" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06aa933b-c597-4714-9858-90c5c788ee0b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4ff0d29f-38d6-4fb0-9ebe-6cf312d5e4d1" width="30%" />
+</p>
 
 ## ✅ 저작권 등록
 
